@@ -13,7 +13,6 @@ Windows Server 2022
 Active Directory Domain Services (AD DS)
 DNS Server
 Oracle VirtualBox
-PowerShell
 TCP/IP Networking
 
 ## Projects
@@ -46,7 +45,6 @@ Host (A) Records
 SOA Records
 NS Records
 Name Resolution
-PowerShell DNS Verification
 
 **Documentation**
 
@@ -65,7 +63,6 @@ DHCP Server
 Group Policy (GPO)
 File Server
 Print Server
-PowerShell Automation
 Windows Server Backup
 
 **Author**
